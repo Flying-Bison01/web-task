@@ -1,0 +1,24 @@
+/* src/style.css */
+.footer-container {
+  display: flex;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .footer-container {
+    position: fixed; /* Fixes the footer to the bottom */
+    bottom: 0;      /* Aligns it at the bottom of the screen */
+    left: 0;
+    right: 0;
+    z-index: 10;    /* Ensures it stays above other content */
+  }
+}
+#hos{
+  margin-left: -32px;
+    margin-top: -32px;
+    display: flex;
+
+}
+#home{
+  margin-right: -14px;
+}

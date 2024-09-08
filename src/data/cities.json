@@ -1,0 +1,22 @@
+[
+  { "name": "Delhi", "airport": "Indira Gandhi International Airport" },
+  { "name": "Mumbai", "airport": "Chhatrapati Shivaji Maharaj International Airport" },
+  { "name": "Bangalore", "airport": "Kempegowda International Airport" },
+  { "name": "Chennai", "airport": "Chennai International Airport" },
+  { "name": "Hyderabad", "airport": "Rajiv Gandhi International Airport" },
+  { "name": "Kolkata", "airport": "Netaji Subhas Chandra Bose International Airport" },
+  { "name": "Ahmedabad", "airport": "Sardar Vallabhbhai Patel International Airport" },
+  { "name": "Jaipur", "airport": "Jaipur International Airport" },
+  { "name": "Goa", "airport": "Goa International Airport" },
+  { "name": "Pune", "airport": "Pune Airport" },
+  { "name": "Kochi", "airport": "Cochin International Airport" },
+  { "name": "Thiruvananthapuram", "airport": "Trivandrum International Airport" },
+  { "name": "Amritsar", "airport": "Sri Guru Ram Dass Jee International Airport" },
+  { "name": "Varanasi", "airport": "Lal Bahadur Shastri Airport" },
+  { "name": "Lucknow", "airport": "Chaudhary Charan Singh International Airport" },
+  { "name": "Indore", "airport": "Devi Ahilya Bai Holkar Airport" },
+  { "name": "Nagpur", "airport": "Dr. Babasaheb Ambedkar International Airport" },
+  { "name": "Chandigarh", "airport": "Chandigarh Airport" },
+  { "name": "Bhubaneswar", "airport": "Biju Patnaik International Airport" },
+  { "name": "Surat", "airport": "Surat Airport" }
+]
